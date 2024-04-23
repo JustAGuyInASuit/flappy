@@ -64,8 +64,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_type', const='PPO2', default='PPO2', nargs='?')
     parser.add_argument('--model_path', required=True, nargs='?')
-    parser.add_argument('--policy_type',
-                        const='MlpPolicy', default='MlpPolicy', nargs='?')
+    parser.add_argument('--policy_type', const='MlpPolicy', default='MlpPolicy', nargs='?')
     parser.add_argument('--n_cpu', const=4, default=4, type=int, nargs='?')
     parser.add_argument('--time_step', required=True, type=int, nargs='?')
     args = parser.parse_args()

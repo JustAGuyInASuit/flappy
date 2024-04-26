@@ -1,6 +1,6 @@
 # Flappy
 
-Flappy Hummingbird: An Open Source Dynamic Simulation of Flapping Wing Robots and Animals
+Flappy Hummingbird: An Open Source Dynamic Simulation of Flapping Wing Robots and Animals DISCLAIMER THIS IS NOT MINE
 
 This work has been published and presented at ICRA2019 (The 2019 International Conference on Robotics and Automation). 
 
